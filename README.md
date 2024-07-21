@@ -13,6 +13,8 @@
 
 **Deployment** =>
 
-![image](https://github.com/user-attachments/assets/0375dc14-1e3d-4e20-ac29-5c9cff26dc8c)
+![image](https://github.com/user-attachments/assets/c18b4cbc-68ec-4761-8abc-da2299301e0f)
+![image](https://github.com/user-attachments/assets/c35e521e-4402-4b9f-8ea4-f2fe5e447dca)
+![image](https://github.com/user-attachments/assets/b09a0217-db99-4ff8-9eb2-870cab42d7bf)
 ![image](https://github.com/user-attachments/assets/debc5f0c-125a-45f6-8e86-e9e9aa3b7b77)
 
