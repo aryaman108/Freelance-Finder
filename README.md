@@ -2,9 +2,13 @@
 
 **Development Process**:
 *Planning & Design*: Defining user requirements, creating wireframes, and designing the user interface.
+
 *Frontend Development*: Using React to build dynamic and responsive user interfaces.
+
 *Backend Development*: Implementing APIs with Node.js and Express to handle user authentication, project management, and messaging.
+
 *Database Integration*: Setting up MongoDB to store user data, project details, and messages.
+
 *Testing & Deployment*: Ensuring the application is bug-free and deploying it to a cloud server for public access.
 
 **Video Link**: https://youtu.be/1PUTAUeNfsk
