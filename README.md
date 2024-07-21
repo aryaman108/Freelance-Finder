@@ -1,6 +1,7 @@
 # Freelance Finder: Discovering Opportunities, Unlocking Potential
 
 **Development Process**:
+
 *Planning & Design*: Defining user requirements, creating wireframes, and designing the user interface.
 
 *Frontend Development*: Using React to build dynamic and responsive user interfaces.
