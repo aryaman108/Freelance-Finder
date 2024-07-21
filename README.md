@@ -14,7 +14,5 @@
 **Deployment** =>
 
 ![image](https://github.com/user-attachments/assets/0375dc14-1e3d-4e20-ac29-5c9cff26dc8c)
-![image](https://github.com/user-attachments/assets/d7d0fc91-d85b-41c9-a4e3-d6beac7faf28)
-![image](https://github.com/user-attachments/assets/953df077-5957-434d-bbf8-aa1f8dd8a2c3)
-![image](https://github.com/user-attachments/assets/648d2d38-76f6-4f3e-8eb2-285900af82b7)
-![image](https://github.com/user-attachments/assets/5e970622-fe83-4b43-83b4-e5b3d64a85c1)
+![image](https://github.com/user-attachments/assets/debc5f0c-125a-45f6-8e86-e9e9aa3b7b77)
+
